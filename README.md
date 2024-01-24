@@ -51,9 +51,9 @@
 
 | 软件 | 链接 |
 | :-----| :---- |
-| Surge | https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.module |
+| Surge | https://cdn.jsdelivr.net/gh/app2smile/rules/module/spotify.module |
 | Loon | https://raw.githubusercontent.com/app2smile/rules/master/plugin/spotify.plugin |
-| qx | Rewrite:https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.conf |
+| qx | Rewrite:https://cdn.jsdelivr.net/gh/app2smile/rules/js/module/spotify.conf |
 
 
 ## Spotify歌词翻译
